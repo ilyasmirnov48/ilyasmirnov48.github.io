@@ -1,0 +1,70 @@
+body {
+    background-color: grey;
+}
+
+.container {
+    background-color: rgb(105, 88, 88);
+    width: 750px;
+    margin: 0 auto;
+}
+
+.text {
+    position: absolute;
+    margin: auto;
+    top: 7%;
+    color: white;
+    width: 750px;
+    text-align: center;
+    font-size: 40px;
+}
+
+nav {
+    margin: 10px;
+}
+
+nav a {
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+nav a:hover {
+    background-color: grey;
+    color: white;
+}
+
+footer {
+    background-color: dimgrey;
+    padding: 10px;
+}
+
+h2 {
+    margin: 12px;
+}
+
+main {
+    margin: 30px;
+    padding: 10px;
+}
+
+.quote {
+    width: 630px;
+    text-align: right; 
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.list {
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.link {
+    font-size: 20px;
+    text-align: center;
+}
