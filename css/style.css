@@ -36,6 +36,23 @@ nav a:hover {
     color: white;
 }
 
+.h2chat {
+    margin: 20px;
+    text-align: center;
+}
+
+h4 {
+    margin: 20px;
+}
+
+input {
+    margin: 0 15px 10px 15px;
+}
+
+.greeting {
+    margin: 20px;
+}
+
 footer {
     background-color: dimgrey;
     padding: 10px;
@@ -48,6 +65,10 @@ h2 {
 main {
     margin: 30px;
     padding: 10px;
+}
+
+.mainChat {
+    margin: 5px;
 }
 
 .quote {
